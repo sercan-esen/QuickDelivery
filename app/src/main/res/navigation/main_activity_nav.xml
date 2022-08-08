@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.example.quickdelivery.presentation.anasayfa.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" >
+        <action
+            android:id="@+id/action_anasayfaFragment_to_detayFragment"
+            app:destination="@id/detayFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detayFragment"
+        android:name="com.example.quickdelivery.presentation.detay.DetayFragment"
+        android:label="fragment_detay"
+        tools:layout="@layout/fragment_detay" >
+        <action
+            android:id="@+id/sepetGecis"
+            app:destination="@id/sepetFragment" />
+        <argument
+            android:name="yemek"
+            app:argType="com.example.quickdelivery.domain.model.YemekDto" />
+    </fragment>
+    <fragment
+        android:id="@+id/sepetFragment"
+        android:name="com.example.quickdelivery.presentation.sepet.SepetFragment"
+        android:label="fragment_sepet"
+        tools:layout="@layout/fragment_sepet" >
+        <action
+            android:id="@+id/action_sepetFragment_to_odemeFragment"
+            app:destination="@id/odemeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/odemeFragment"
+        android:name="com.example.quickdelivery.presentation.odeme.OdemeFragment"
+        android:label="fragment_odeme"
+        tools:layout="@layout/fragment_odeme" >
+        <argument
+            android:name="paymentdetails"
+            app:argType="com.example.quickdelivery.presentation.odeme.PaymentBillDetails" />
+    </fragment>
+</navigation>

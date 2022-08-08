@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.sepet.SepetFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvSepetYemekler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingHorizontal="8dp"
+        app:layout_constraintBottom_toTopOf="@id/llOdeme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <LinearLayout
+        android:id="@+id/llOdeme"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/ana_color_3"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/tvUrunSayisi"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:paddingStart="4dp"
+            android:singleLine="true"
+            android:text="0 Urun"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvFiyat"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.15"
+            android:gravity="center"
+            android:paddingStart="4dp"
+            android:text="0TL"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:background="@color/ana_color_4"
+            android:id="@+id/tvOde"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:gravity="center"
+            android:paddingStart="4dp"
+            android:text="Sepeti Onayla"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

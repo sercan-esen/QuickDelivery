@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/ic_home_for_bottom_nav"
+        android:title="AnaSayfa"
+        />
+    <item
+        android:id="@+id/sepetFragment"
+        android:icon="@drawable/ic_basket_for_bottom_nav"
+        android:title="Sepet"
+        />
+
+</menu>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/QuickDelivery/app/src/main/res/drawable/bg_et.xml" value="0.296" />
+        <entry key="..\:/QuickDelivery/app/src/main/res/layout/fragment_detay.xml" value="0.25" />
+        <entry key="..\:/QuickDelivery/app/src/main/res/layout/fragment_odeme.xml" value="0.25" />
+        <entry key="..\:/QuickDelivery/app/src/main/res/layout/fragment_sepet.xml" value="0.3378623188405797" />
+        <entry key="..\:/QuickDelivery/app/src/main/res/layout/sepet_yemek_row.xml" value="0.22" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/drawable/ic_basket_for_bottom_nav.xml" value="0.216" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/drawable/ic_home_for_bottom_nav.xml" value="0.216" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/drawable/ic_launcher_background.xml" value="0.163" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/anasayfa_yemek_row.xml" value="0.5" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/card_tasarim.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/fragment_anasayfa.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/fragment_detay.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/fragment_odeme.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/fragment_sepet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/layout/sepet_yemek_row.xml" value="0.33" />
+        <entry key="..\:/Users/glukh/AndroidStudioProjects/QuickDelivery/app/src/main/res/menu/bottom_nav.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/drawable/bg_et.xml" value="0.2095" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/drawable/bg_tv_ana.xml" value="0.2095" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/drawable/ic_mastercard.xml" value="0.2095" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/drawable/ic_visa.xml" value="0.2095" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/layout/anasayfa_yemek_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/layout/fragment_odeme.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/glukh/QuickDelivery/app/src/main/res/layout/fragment_sepet.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
