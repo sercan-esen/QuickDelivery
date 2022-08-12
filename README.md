@@ -1,6 +1,1 @@
-![Login](https://user-images.githubusercontent.com/99819569/184376141-ed49d14c-3355-4095-83f3-855c436e2e25.png)
-![Odeme](https://user-images.githubusercontent.com/99819569/184376151-cd3194e1-b148-4131-bca0-9c22f031a078.png)
-![Sepet](https://user-images.githubusercontent.com/99819569/184376157-1b0b7e5b-438c-4317-bfb8-e7ac2aa0faef.png)
-![Splash](https://user-images.githubusercontent.com/99819569/184376163-0ac8a673-2a47-47ea-94ac-732481cdd0f3.png)
-![Anasayfa](https://user-images.githubusercontent.com/99819569/184376168-8376f767-397f-42d2-b7ba-ed16b732bbbf.png)
-![Detay](https://user-images.githubusercontent.com/99819569/184376180-f5578bf7-7ccf-4ff6-8222-92cc4fd13c94.png)
+![zyro-image](https://user-images.githubusercontent.com/99819569/184377159-92d00c51-5cde-4cbb-be87-2438d12deb51.png)
