@@ -1,7 +1,7 @@
 
-Food Order Delivery App
+#Food Order Delivery App
 
-QuickDelivery 
+##QuickDelivery 
 I have completed the Android Developer Bootcamp (Kotlin) organized with the cooperation of Techcareer.net and TÜBİSAD. I would like to thank our trainer Kasım ADALAN for this beautiful training.
 
 As a graduation project, I developed a food ordering application. You can register and log in with your e-mail and password. You can list the products, add them to the cart and complete the order process.
