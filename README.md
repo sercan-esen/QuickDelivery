@@ -1,8 +1,6 @@
-# QuickDelivery
-QuickDelivery Yemek Sipariş Android Mobil Uygulaması
-[Anasayfa](https://user-images.githubusercontent.com/99819569/184375204-8b580717-a9ec-4918-9a14-8ec4c41df8e8.png)
-[Detay](https://user-images.githubusercontent.com/99819569/184375216-592beab2-16ae-4b25-802d-d7f0e4dd02e9.png)
-[Login](https://user-images.githubusercontent.com/99819569/184375224-fca1d6e9-8c02-4505-9486-8d5b439d0a67.png)
-[Odeme](https://user-images.githubusercontent.com/99819569/184375228-17162bc0-f04d-420a-965a-f50f05e1559c.png)
-[Sepet](https://user-images.githubusercontent.com/99819569/184375231-16d68efe-34c7-4e5c-b0b3-9aa1e3e3258a.png)
-[Splash](https://user-images.githubusercontent.com/99819569/184375239-6dc19324-bd0b-4b63-8f35-90d079954223.png)
+![Login](https://user-images.githubusercontent.com/99819569/184376141-ed49d14c-3355-4095-83f3-855c436e2e25.png)
+![Odeme](https://user-images.githubusercontent.com/99819569/184376151-cd3194e1-b148-4131-bca0-9c22f031a078.png)
+![Sepet](https://user-images.githubusercontent.com/99819569/184376157-1b0b7e5b-438c-4317-bfb8-e7ac2aa0faef.png)
+![Splash](https://user-images.githubusercontent.com/99819569/184376163-0ac8a673-2a47-47ea-94ac-732481cdd0f3.png)
+![Anasayfa](https://user-images.githubusercontent.com/99819569/184376168-8376f767-397f-42d2-b7ba-ed16b732bbbf.png)
+![Detay](https://user-images.githubusercontent.com/99819569/184376180-f5578bf7-7ccf-4ff6-8222-92cc4fd13c94.png)
