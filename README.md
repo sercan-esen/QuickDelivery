@@ -6,7 +6,7 @@
 
  As a graduation project, I developed a food ordering application. You can register and log in with your e-mail and password. You can list the products, add them to the cart and complete the order process.
 
-                       ###### Project Features
+## Project Features
 
 - Firebase Authentication
 - MVVM (Clean Architecture)
